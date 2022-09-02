@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Chitampalle</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286" alt="#" width="400">
+
 
 - 🌱 I’m currently learning **JS FrontEnd Library**
 
-- 💬 Ask me about **Java,Python,HTML,CSS**
+- 💬 Ask me about **CoreJava,Python,HTML,CSS**
 
 - 📫 How to reach me **chitampalle@gmail.com**
 
