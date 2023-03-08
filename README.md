@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS[--REACT--] FrontEnd Library**
 
-- 💬 Ask me about **CoreJava,Python,HTML,CSS**
+- 💬 Ask me about **CoreJava,Javascript,Python,HTML,CSS**
 
 - 📫 How to reach me **chitampalle813@gmail.com**
 
