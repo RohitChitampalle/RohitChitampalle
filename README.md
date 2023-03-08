@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **JS FrontEnd Library**
+- 🌱 I’m currently learning **JS[--REACT--] FrontEnd Library**
 
 - 💬 Ask me about **CoreJava,Python,HTML,CSS**
 
