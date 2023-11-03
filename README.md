@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **JS[--REACT--] FrontEnd Library**
+- 🌱 I’m **FullStack Engineer**
 
-- 💬 Ask me about **CoreJava,Javascript,Python,HTML,CSS**
+- 💬 Ask me about **CoreJava,Javascript,Python,HTML,CSS,ReactJs**
 
 - 📫 How to reach me **chitampalle813@gmail.com**
 
