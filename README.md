@@ -5,7 +5,7 @@
 
 - 🌱 I’m **FullStack Engineer**
 
-- 💬 Ask me about **CoreJava,Javascript,Python,HTML,CSS,ReactJs**
+- 💬 Ask me about **Javascript,Python,HTML,CSS,ReactJs**
 
 - 📫 How to reach me **chitampalle813@gmail.com**
 
